@@ -14,3 +14,6 @@
 - 思维导图的插件
 - 支持markdown
 - 预览界面的皮肤比较不错
+- 可以同步到Github
+## 测试
+![这里是一个花瓣的链接](http://img.hb.aicdn.com/2f980238180b6c1614937f1aa9fd7c0fa0776670f62e-A6OerU_fw658)
