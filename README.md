@@ -3,5 +3,9 @@
 ## 初识GitNote
 [官方网站](https://gitnoteapp.com/)
 [GitNote使用教程](https://www.bilibili.com/video/av43903167)
-## 好处
 
+## 不足
+总给我一种完成度很低的感觉，不知道如何移动文件，
+## 好处
+- 思维导图的插件
+- 支持
